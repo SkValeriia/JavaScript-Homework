@@ -14,4 +14,5 @@ for (k = 0; k < arr.length; k++) {
       }
 }
 
+console.log(minMaxNumber(arrayOfNumbers));
 alert ("Max number is: " + MaxNumber + " " + "Min number is: " + MinNumber);
