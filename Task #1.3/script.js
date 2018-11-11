@@ -1,4 +1,4 @@
-var arr = [1, 2, 3, 4, 5];
+var arr = [1, 4, 2];
 
 const reducer = (accumulator, currentValue) => accumulator + currentValue;
 console.log(arr.reduce(reducer));
